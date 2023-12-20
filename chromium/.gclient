@@ -1,7 +1,7 @@
 solutions = [
   {
     "name": "src",
-    "url": "https://chromium.googlesource.com/chromium/src.git@111.0.5511.1",
+    "url": "https://chromium.googlesource.com/chromium/src.git@122.0.6197.1",
     "managed": False,
     "custom_deps": {},
     "custom_vars": {
